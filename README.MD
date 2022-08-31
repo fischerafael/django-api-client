@@ -48,3 +48,5 @@ python manage.py createsuperuser
 # create serializers
 
 # create view (view is the controller)
+
+# expose the view in an endpoint
