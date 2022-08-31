@@ -30,3 +30,11 @@ python manage.py startapp clients
 # create requirements.txt
 
 pip freeze > requirements-dev.txt
+
+# make migrations
+
+python manage.py makemigrations
+
+# migrate
+
+python manage.py migrate
