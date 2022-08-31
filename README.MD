@@ -23,4 +23,10 @@ python manage.py runserver
 
 python manage.py startapp clients
 
+# install the app
+
 # work on models
+
+# create requirements.txt
+
+pip freeze > requirements-dev.txt
