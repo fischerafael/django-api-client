@@ -14,3 +14,13 @@ pip install djangorestframework
 # Start Project
 
 django-admin startproject setup .
+
+# run server
+
+python manage.py runserver
+
+# create app
+
+python manage.py startapp clients
+
+# work on models
