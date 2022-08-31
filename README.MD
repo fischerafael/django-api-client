@@ -38,3 +38,13 @@ python manage.py makemigrations
 # migrate
 
 python manage.py migrate
+
+# create super user
+
+python manage.py createsuperuser
+
+# install restframework
+
+# create serializers
+
+# create view (view is the controller)
